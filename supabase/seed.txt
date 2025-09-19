@@ -1,0 +1,60 @@
+LEARNING CENTRES:
+  - Name: Fakir Colony
+  - Area: Fakir Colony
+  - City: Bengaluru
+  - District: Bengaluru
+  - State: Karnataka
+  - Country: India
+  - Facilitator:
+      - Afreen Fathima
+      - +91 91482 00294
+  - Partner Organisations:
+      - Sangama
+
+  - Name: Jhenda Gully
+  - Area: Jhenda Gully
+  - City: Bengaluru
+  - District: Bengaluru
+  - State: Karnataka
+  - Country: India
+  - Facilitator:
+      - Noor ul Huda
+      - Alias: ["Huda Vika Jhendagalli"]
+      - +91 86184 46965
+
+  - Name: Avalahalli
+  - Area: Avalahalli
+  - City: Bengaluru
+  - District: Bengaluru
+  - State: Karnataka
+  - Country: India
+  - Facilitator:
+      - Sahira Banu
+      - Alias: ["Sahira Banu ViKa"]
+      - +91 72043 46660
+  - Partner Organisations:
+      - T Muniswamappa Trust
+
+  - Name: T R Nagar
+  - Area: T R Nagar
+  - City: Bengaluru
+  - District: Bengaluru
+  - State: Karnataka
+  - Country: India
+  - Facilitator:
+      - Prashanth
+      - Alias: ["Prashanth TR Nagar"]
+      - +91 77957 06285
+  - Partner Organisations:
+      - Stree Jagruti Samiti
+
+  - Name: Halasuru
+  - Area: Halasuru
+  - City: Bengaluru
+  - District: Bengaluru
+  - State: Karnataka
+  - Country: India
+  - Facilitator:
+      - Rajeshwari
+      - Alias: ["Rajeshwari Halasuru Facilitator"]
+      - +91 70266 74030
